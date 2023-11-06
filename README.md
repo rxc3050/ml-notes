@@ -10,6 +10,7 @@
   - [HuggingFace/Models](https://huggingface.co/models)
  
 ```bash
+Keep Going!
 ```
 
 ## AI-Tools
@@ -35,6 +36,7 @@
 
 
 ```bash
+Nothing Here!!
 ```
 
 ## Agents
