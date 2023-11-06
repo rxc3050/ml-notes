@@ -15,9 +15,10 @@ More!!
 
 <!-- Tables -->
 * Maybe adding a table here. 
-| Name    | Link     | Category | Description
-----------|----------|----------|------------
-| Autogen | linkhere | Agennts  | AI Agents 
+| Name    | Link     | Category | Description |
+| ------- | -------- | -------- | ----------- |  
+| Autogen | linkhere | Agents   | AI Agents   | 
+| ChatDev | linkhere | Agents   | AI Agents   | 
 
 
 <!-- CodeBlock-Bash -->
