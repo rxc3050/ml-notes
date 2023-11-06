@@ -6,7 +6,7 @@
 - GPT3.5 and GPT4 by OpenAI
 - Grok by XAI
 - Claude by Anthropic
-- Models can be found at [HuggingFace/Models](https://huggingface.co/models)
+- Models can be found at: 
   - [HuggingFace/Models](https://huggingface.co/models)
  
 ```bash
@@ -14,8 +14,31 @@
 
 ## AI-Tools
 
-### ImageGen Tools
+### ImageGen
+- Midjourney
+- StableDiffusion
+- 
 
-### TextGen TOols
+### TextGen
+- ChatGpt
+- Claude
+- Grok
+- Llama
+- Bard
+- Mistral7B
 
-### Code Tools
+### CodeGen
+
+- CodeLLama
+- Github Copilot
+- Replit
+
+
+```bash
+```
+
+## Agents
+
+- Autogen by Microsoft
+- BabyAGI
+- 
