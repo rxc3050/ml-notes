@@ -1,4 +1,3 @@
-llm.md
 ## List of LLM's
 - FInd My List of LLM's here
 	- [LLMS](https://github.com/rxc3050/ml-notes#list-of-llms)
@@ -6,7 +5,6 @@ llm.md
 ```text
 What are LLM's:
   LLM stands for Large Language Model, which refers to a class of artificial intelligence systems that are trained on vast amounts of text data and are able to generate text that mimics human writing. Here are some key things to know about LLMs:
-
 LLMs are a type of neural network, which is a computing system loosely modeled on the neural networks in the human brain. LLMs have an architecture that is optimized for processing language data.
 They are "large" models because they have billions or trillions of parameters, allowing them to learn complex patterns and relationships within text data. The more data they are trained on, the more capable they become.
 Popular examples of LLMs include GPT-3, created by OpenAI, and BERT, created by Google. Models designed more recently like GPT-3.5 and Anthropic's Claude also fall into this category.

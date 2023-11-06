@@ -1,5 +1,3 @@
-ai-tools.md
-
 ## List of AI-Tools
 
 - Find My List of AI-Tools Here: 
@@ -10,11 +8,13 @@ ai-tools.md
 <!-- CodeBlock -->
 ```text
 More!!
-
 ```
 
-<!-- Tables -->
+
 * Maybe adding a table here. 
+
+<!-- Tables -->
+
 | Name    | Link     | Category | Description |
 | ------- | -------- | -------- | ----------- |  
 | Autogen | linkhere | Agents   | AI Agents   | 
