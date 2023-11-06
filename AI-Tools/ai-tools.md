@@ -11,14 +11,12 @@ More!!
 ```
 
 
-* Maybe adding a table here. 
-
 <!-- Tables -->
 
 | Name    | Link     | Category | Description |
 | ------- | -------- | -------- | ----------- |  
 | Autogen | linkhere | Agents   | AI Agents   | 
-| ChatDev | linkhere | Agents   | AI Agents   | 
+| ChatDev | linkhere | Agents   | AI Agents  asdsdsdas | 
 
 
 <!-- CodeBlock-Bash -->
