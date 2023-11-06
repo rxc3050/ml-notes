@@ -24,8 +24,8 @@ Their capabilities will likely continue to grow with advances in computing power
 
 | Name    | Link     | Category | Description |
 | ------- | -------- | -------- | ----------- |  
-| Autogen | linkhere | Agents   | AI Agents   | 
-| ChatDev | linkhere | Agents   | AI Agents  asdsdsdas | 
+| GPT3.5 | [OpenAI](https://openai.com/) | LLMs   | LLM from OpenAI   | 
+| Grok1 | [XAI](https://x.ai/)| LLMs  | LLM from X-AI | 
 
 
 <!-- Task-List -->
