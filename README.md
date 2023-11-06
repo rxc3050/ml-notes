@@ -6,8 +6,8 @@
 - GPT3.5 and GPT4 by OpenAI
 - Grok by XAI
 - Claude by Anthropic
-- Models can be found at huggingface/models
-- - [HuggingFace/Models](https://huggingface.co/models)
+- Models can be found at [HuggingFace/Models](https://huggingface.co/models)
+  - [HuggingFace/Models](https://huggingface.co/models)
  
 ```bash
 ```
