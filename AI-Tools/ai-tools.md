@@ -18,6 +18,8 @@ More!!
 | Autogen | linkhere | Agents   | AI Agents   | 
 | ChatDev | linkhere | Agents   | AI Agents  asdsdsdas | 
 
+## fot later 
+| Pinokio | https://futuretools.link/pinokio-computer | Local LLM Runs | | 
 
 <!-- CodeBlock-Bash -->
 
