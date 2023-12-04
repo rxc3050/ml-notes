@@ -1,5 +1,5 @@
 ## List of LLM's
-- FInd My List of LLM's here
+- Find My List of LLM's here
 	- [LLMS](https://github.com/rxc3050/ml-notes#list-of-llms)
 
 ```text
