@@ -22,11 +22,16 @@ nav:
 # # site_favicon: favicon.ico
 # # site_favicon: site-favicon.ico
 
-theme: dracula
-# site_favicon: favicon.ico
+# theme: dracula
+# # site_favicon: favicon.ico
 
 # theme: pulse
 # # site_favicon: favicon.ico
 
-# theme: material
-# # site_favicon: favicon.ico
+theme: material
+# site_favicon: favicon.ico
+
+palette:
+    primary: indigo
+  features:
+    - navigation.footer
