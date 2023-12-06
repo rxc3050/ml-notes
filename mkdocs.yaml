@@ -32,6 +32,7 @@ nav:
 # site_favicon: favicon.ico
 
 
-theme: material
+theme: 
+  name: material
   palette:
     scheme: default
