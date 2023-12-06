@@ -18,7 +18,18 @@ Their capabilities will likely continue to grow with advances in computing power
 
 ## List of LLM's
 - Find My List of LLM's here
-	- [LLMS](https://github.com/rxc3050/ml-notes#list-of-llms)
+	- [LLMS](models/list-of-models.md)
+    - Models-on-HuggingFace(https://huggingface.co/models)
+
+| Name    | Link     | Category | Description |
+| ------- | -------- | -------- | ----------- |  
+| GPT3.5 | [OpenAI](https://openai.com/) | LLMs   | LLM from OpenAI   | 
+| Grok1 | [XAI](https://x.ai/)| LLMs  | LLM from X-AI | 
+| Mistral7B | --- | LLMs  | LLM from Mistral | 
+| Llama | --- | LLMs  | LLM from Meta | 
+| Claude | --- | LLMs  | LLM from Anthropic |
+| Bard | --- | LLMs  | LLM from Google |
+| --- |--- | ----  | --- |  
 
 
 ### Model-Hub
@@ -33,11 +44,12 @@ Their capabilities will likely continue to grow with advances in computing power
 - Replicate
 - 
 
+
 ## Local Runs of LLMs
 
 - LMStudio
 - Pinkio Computer
-- Ollama
+- [Ollama](https://ollama.ai/)
 
 ## Tools 
 
