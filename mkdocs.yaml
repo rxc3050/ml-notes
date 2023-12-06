@@ -35,5 +35,4 @@ nav:
 theme:
   palette:
     scheme: default
-    primary: teal
-    
+    # primary: teal
