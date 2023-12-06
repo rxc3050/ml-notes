@@ -35,4 +35,6 @@ nav:
 theme: 
   name: material
   palette:
-    scheme: default
+    # scheme: default
+    scheme: slate
+    primary: teal
