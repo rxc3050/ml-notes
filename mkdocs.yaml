@@ -33,7 +33,7 @@ theme:
   palette:
     # scheme: default
     scheme: slate
-    primary: teal
-  features:
-    - navigation.footer    
+    primary: indigo
+  # features:
+  #   - navigation.footer    
   copyright: Copyright &copy; 2023 rxc3050  
