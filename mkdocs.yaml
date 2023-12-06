@@ -28,9 +28,11 @@ nav:
 # theme: pulse
 # # site_favicon: favicon.ico
 
-theme: material
+# theme: material
 # site_favicon: favicon.ico
 
+
+theme: 
   palette:
     primary: indigo
   features:
