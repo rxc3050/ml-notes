@@ -31,7 +31,7 @@ nav:
 theme: material
 # site_favicon: favicon.ico
 
-palette:
+  palette:
     primary: indigo
   features:
     - navigation.footer
