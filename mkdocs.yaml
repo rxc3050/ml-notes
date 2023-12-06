@@ -36,3 +36,4 @@ theme:
     primary: teal
   features:
     - navigation.footer    
+  copyright: Copyright &copy; 2023 rxc3050  
