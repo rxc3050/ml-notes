@@ -32,8 +32,8 @@ nav:
 # site_favicon: favicon.ico
 
 
-theme: 
+theme:
   palette:
-    primary: indigo
-  features:
-    - navigation.footer
+    scheme: default
+    primary: teal
+    
