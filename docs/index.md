@@ -1,5 +1,5 @@
 # All AI Things
-```text
+-----------------------------------------------------------------------------
 What are LLM's:
 LLM stands for Large Language Model, which refers to a class of artificial intelligence systems that are trained on vast amounts of text data and are able to generate text that mimics human writing. Here are some key things to know about LLMs:
 -- LLMs are a type of neural network, which is a computing system loosely modeled on the neural networks in the human brain. 
@@ -14,7 +14,8 @@ LLM stands for Large Language Model, which refers to a class of artificial intel
 In summary, LLMs represent the cutting edge of AI's ability to understand and generate natural 
 language at scale, enabling many useful applications. 
 Their capabilities will likely continue to grow with advances in computing power and neural network architectures. 
-```
+
+-----------------------------------------------------------------------------
 
 ## List of LLM's
 - Find My List of LLM's here
@@ -32,6 +33,8 @@ Their capabilities will likely continue to grow with advances in computing power
 | --- |--- | ----  | --- |  
 
 
+-----------------------------------------------------------------------------
+
 ### Model-Hub
 
 - [HuggingFace](https://huggingface.co/)
@@ -45,11 +48,14 @@ Their capabilities will likely continue to grow with advances in computing power
 - 
 
 
+-----------------------------------------------------------------------------
 ## Local Runs of LLMs
 
 - LMStudio
 - Pinkio Computer
 - [Ollama](https://ollama.ai/)
+
+-----------------------------------------------------------------------------
 
 ## Tools 
 

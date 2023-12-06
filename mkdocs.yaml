@@ -1,4 +1,4 @@
-site_name: AI-Notes
+site_name: ALL-AI-THINGS
 
 nav: 
   - Home: index.md
@@ -18,12 +18,12 @@ nav:
 
 # Themes related code
 
-theme: lux
-# site_favicon: favicon.ico
-# site_favicon: site-favicon.ico
-
-# theme: dracula
+# theme: lux
 # # site_favicon: favicon.ico
+# # site_favicon: site-favicon.ico
+
+theme: dracula
+# site_favicon: favicon.ico
 
 # theme: pulse
 # # site_favicon: favicon.ico
