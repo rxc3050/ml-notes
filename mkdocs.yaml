@@ -28,13 +28,11 @@ nav:
 # theme: pulse
 # # site_favicon: favicon.ico
 
-# theme: material
-# site_favicon: favicon.ico
-
-
 theme: 
   name: material
   palette:
     # scheme: default
     scheme: slate
     primary: teal
+  features:
+    - navigation.footer    

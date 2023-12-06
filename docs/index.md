@@ -63,7 +63,7 @@ Their capabilities will likely continue to grow with advances in computing power
     - Github Copilot
     - Cursor 
     - 
-- [Audio-Video-Gen](ai-tools/audio-video.md)
+- [Audio-Video-Gen](ai-tools/audio-video-gen.md)
 
 - [Chat](ai-tools/text-gen.md)
 
