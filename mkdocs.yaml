@@ -32,7 +32,6 @@ nav:
 # site_favicon: favicon.ico
 
 
-theme:
+theme: material
   palette:
     scheme: default
-    # primary: teal
