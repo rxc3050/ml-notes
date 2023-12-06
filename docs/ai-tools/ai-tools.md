@@ -5,10 +5,10 @@
 	- [LLMS](https://github.com/rxc3050/ml-notes#list-of-llms)  
 
 
-<!-- CodeBlock -->
+<!-- CodeBlock
 ```text
 More!!
-```
+``` -->
 
 
 <!-- Tables -->
@@ -19,8 +19,6 @@ More!!
 | ChatDev | linkhere | Agents   | AI Agents  asdsdsdas | 
 | Pinokio | https://futuretools.link/pinokio-computer | Local LLM Runs | | 
 
-## for later 
-| Pinokio | https://futuretools.link/pinokio-computer | Local LLM Runs | | 
 
 <!-- CodeBlock-Bash -->
 

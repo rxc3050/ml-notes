@@ -1,0 +1,32 @@
+site_name: AI-Notes
+
+nav: 
+  - Home: index.md
+
+  # AI Tools
+  - Useful-AI-Tools: 
+    - Code-Generation: ai-tools/code-gen.md
+    - Text-generation: models/models.md
+    - Audio-Video-Tools: ai-tools/audio-video-gen.md
+    # - More: ai-tools/example-table.md
+
+  # Models Related Docs
+  - Models: 
+    - Models-Hub: models/models.md
+    - Models: models/models.md
+
+
+# Themes related code
+
+theme: lux
+# site_favicon: favicon.ico
+# site_favicon: site-favicon.ico
+
+# theme: dracula
+# # site_favicon: favicon.ico
+
+# theme: pulse
+# # site_favicon: favicon.ico
+
+# theme: material
+# # site_favicon: favicon.ico
