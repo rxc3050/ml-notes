@@ -1,7 +1,7 @@
 # All AI Things
 -----------------------------------------------------------------------------
 What are LLM's:
-- [Explanation](models/models.md/#WhatareLLMs)
+- [Explanation](models/what-are-models.md/#WhatareLLMs)
 
 -----------------------------------------------------------------------------
 

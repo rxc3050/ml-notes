@@ -12,7 +12,7 @@ nav:
 
   # Models Related Docs
   - Models: 
-    - Models-Hub: models/models.md
+    - Models-Hub: models/what-are-models.md
     - Models: ai-tools/list-of-models.md
 
   # Prompts Lists
