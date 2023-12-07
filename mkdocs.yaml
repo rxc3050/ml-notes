@@ -1,6 +1,6 @@
 site_name: ALL-AI-THINGS
 
-#--------------ai-things-navigation-setup--------------------------------------------------
+#--------------all-ai-things-navigation-setup--------------------------------------------------
 nav: 
   - Home: index.md
 
