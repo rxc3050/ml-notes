@@ -41,21 +41,14 @@ Their capabilities will likely continue to grow with advances in computing power
 - [HuggingFace](https://huggingface.co/)
 - [CIVITAI](https://civitai.com/)
 
-### Cloud-Providers for Running/Training Models
-
-- AWS
-- Azure
-- Google 
-- Replicate
-- 
-
 
 -----------------------------------------------------------------------------
-## Local Runs of LLMs
+## Prompts
 
-- LMStudio
-- Pinkio Computer
-- [Ollama](https://ollama.ai/)
+- [Midjourney-Prompts](prompts/midjourney-prompts.md)
+- [Stable-Diffusion-Prompts](prompts/sd-prompts.md)
+- [Code-Prompts](prompts/code-prompts.md)
+
 
 -----------------------------------------------------------------------------
 
@@ -70,5 +63,19 @@ Their capabilities will likely continue to grow with advances in computing power
 - [Chat](ai-tools/text-gen.md)
 
 
+-----------------------------------------------------------------------------
 
+## Local Runs of LLMs
 
+- LMStudio
+- Pinkio Computer
+- [Ollama](https://ollama.ai/)
+
+-----------------------------------------------------------------------------
+### Cloud-Providers for Running/Training Models
+
+- AWS
+- Azure
+- Google 
+- Replicate
+- 

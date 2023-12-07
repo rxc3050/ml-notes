@@ -1,5 +1,6 @@
 site_name: ALL-AI-THINGS
 
+#--------------ai-things-navigation-setup--------------------------------------------------
 nav: 
   - Home: index.md
 
@@ -7,17 +8,21 @@ nav:
   - AI-Tools: 
     - Code-Generation: ai-tools/code-gen.md
     - Text-generation: ai-tools/list-of-models.md
-    - Audio-Video-Tools: ai-tools/audio-video-gen.md
-    # - More: ai-tools/abcd.md
+    - Audio-Video-Generation: ai-tools/audio-video-gen.md
 
   # Models Related Docs
   - Models: 
     - Models-Hub: models/models.md
     - Models: ai-tools/list-of-models.md
 
+  # Prompts Lists
   - Prompts: 
+    - MidJourney-Prompts: prompts/midjourney-prompts.md
+    - Stable-Diffusion-Prompts: prompts/sd-promts.md
+    - Coding-Prompts: prompts/code-prompts.md
 
 
+#---------------------------------------------------------------
 # Themes related code
 
 # theme: lux
