@@ -21,6 +21,7 @@ Their capabilities will likely continue to grow with advances in computing power
 - Find My List of LLM's here
 	- [LLMS](models/list-of-models.md)
     - Models-on-HuggingFace(https://huggingface.co/models)
+    
 
 | Name    | Link     | Category | Description |
 | ------- | -------- | -------- | ----------- |  
@@ -38,6 +39,7 @@ Their capabilities will likely continue to grow with advances in computing power
 ### Model-Hub
 
 - [HuggingFace](https://huggingface.co/)
+- [CIVITAI](https://civitai.com/)
 
 ### Cloud-Providers for Running/Training Models
 

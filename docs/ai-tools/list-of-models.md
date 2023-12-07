@@ -12,12 +12,3 @@
 | Bard | --- | LLMs  | LLM from Google |
 | --- |--- | ----  | --- |
 
-
-
-### TextGen
-- ChatGpt
-- Claude
-- Grok
-- Llama
-- Bard
-- Mistral7B

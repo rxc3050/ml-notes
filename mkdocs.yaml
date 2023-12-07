@@ -8,7 +8,7 @@ nav:
     - Code-Generation: ai-tools/code-gen.md
     - Text-generation: models/models.md
     - Audio-Video-Tools: ai-tools/audio-video-gen.md
-    # - More: ai-tools/example-table.md
+    # - More: ai-tools/abcd.md
 
   # Models Related Docs
   - Models: 
