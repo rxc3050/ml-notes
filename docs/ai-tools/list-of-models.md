@@ -12,3 +12,8 @@
 | Bard | --- | LLMs  | LLM from Google |
 | --- |--- | ----  | --- |
 
+
+## Models-HUb
+
+- [CIVITAI](https://civitai.com/)
+- [Hugging-Face](https://huggingface.co/)

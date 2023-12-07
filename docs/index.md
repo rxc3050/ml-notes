@@ -1,7 +1,7 @@
 # All AI Things
 -----------------------------------------------------------------------------
 What are LLM's:
-- [Explanation](models/what-are-models.md/#WhatareLLMs)
+- [Explanation](models/what-are-models.md/#What-are-Large-Language-Models)
 
 -----------------------------------------------------------------------------
 
@@ -32,6 +32,26 @@ What are LLM's:
 - [CIVITAI](https://civitai.com/)
 
 - [Models](models/models.md)
+
+-----------------------------------------------------------------------------
+
+## DataSets
+
+- [Kaggle](https://www.kaggle.com/datasets)
+- [HuggingFace](https://huggingface.co/)
+- [US-GOV-DATA](https://data.gov/)
+
+-----------------------------------------------------------------------------
+
+## Tools 
+
+- [Code-Gen](ai-tools/code-gen.md)
+    - Github Copilot
+    - Cursor 
+- [Audio-Video-Gen](ai-tools/audio-video-gen.md)
+
+- [Chat](ai-tools/text-gen.md)
+
 -----------------------------------------------------------------------------
 ## Prompts
 
@@ -42,26 +62,12 @@ What are LLM's:
 
 -----------------------------------------------------------------------------
 
-## Tools 
-
-- [Code-Gen](ai-tools/code-gen.md)
-    - Github Copilot
-    - Cursor 
-    - 
-- [Audio-Video-Gen](ai-tools/audio-video-gen.md)
-
-- [Chat](ai-tools/text-gen.md)
-
-
------------------------------------------------------------------------------
-
 ## Run Models locally
 
 - [LMStudio](https://lmstudio.ai/)
 - [Pinkio Computer](https://pinokio.computer/)
 - [Ollama](https://ollama.ai/)
-
-- [run-models-locally](ai-tools/local-model-run.md)
+- [List-of-tools-to-run-models-locally](ai-tools/local-model-run.md)
 -----------------------------------------------------------------------------
 ### Cloud-Providers for Running/Training Models
 
