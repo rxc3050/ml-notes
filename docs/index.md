@@ -1,7 +1,7 @@
 # All AI Things
 -----------------------------------------------------------------------------
 What are LLM's:
-- [Explanation](models/models.md/#WhatareLLM's)
+- [Explanation](models/models.md/#WhatareLLMs)
 
 -----------------------------------------------------------------------------
 
@@ -55,7 +55,7 @@ What are LLM's:
 
 -----------------------------------------------------------------------------
 
-## Local Runs of LLMs
+## Run Models locally
 
 - [LMStudio](https://lmstudio.ai/)
 - [Pinkio Computer](https://pinokio.computer/)

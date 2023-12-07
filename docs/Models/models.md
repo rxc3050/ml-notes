@@ -3,7 +3,7 @@
 	- [LLMS](https://github.com/rxc3050/ml-notes#list-of-llms)
 
 -------------------------------------------------------------------------------------------------
-# What are LLM's:
+# What are LLM's
 
 LLM stands for Large Language Model, which refers to a class of artificial intelligence systems that are trained on vast amounts of text data and are able to generate text that mimics human writing. Here are some key things to know about LLMs:
 -- LLMs are a type of neural network, which is a computing system loosely modeled on the neural networks in the human brain. 
