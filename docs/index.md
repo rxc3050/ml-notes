@@ -21,7 +21,7 @@ Their capabilities will likely continue to grow with advances in computing power
 - Find My List of LLM's here
 	- [LLMS](models/list-of-models.md)
     - Models-on-HuggingFace(https://huggingface.co/models)
-    
+
 
 | Name    | Link     | Category | Description |
 | ------- | -------- | -------- | ----------- |  
@@ -30,7 +30,7 @@ Their capabilities will likely continue to grow with advances in computing power
 | Mistral7B | --- | LLMs  | LLM from Mistral | 
 | Llama | --- | LLMs  | LLM from Meta | 
 | Claude | --- | LLMs  | LLM from Anthropic |
-| Bard | --- | LLMs  | LLM from Google |
+| PaLM 2 | --- | LLMs  | Pathways Language Model 2 (PaLM 2) used in Bard,  LLM from Google |
 | --- |--- | ----  | --- |  
 
 

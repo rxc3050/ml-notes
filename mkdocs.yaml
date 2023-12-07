@@ -4,16 +4,18 @@ nav:
   - Home: index.md
 
   # AI Tools
-  - Useful-AI-Tools: 
+  - AI-Tools: 
     - Code-Generation: ai-tools/code-gen.md
-    - Text-generation: models/models.md
+    - Text-generation: ai-tools/list-of-models.md
     - Audio-Video-Tools: ai-tools/audio-video-gen.md
     # - More: ai-tools/abcd.md
 
   # Models Related Docs
   - Models: 
     - Models-Hub: models/models.md
-    - Models: models/models.md
+    - Models: ai-tools/list-of-models.md
+
+  - Prompts: 
 
 
 # Themes related code
