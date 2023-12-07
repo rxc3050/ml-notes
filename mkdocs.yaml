@@ -18,7 +18,7 @@ nav:
   # Prompts Lists
   - Prompts: 
     - MidJourney-Prompts: prompts/midjourney-prompts.md
-    - Stable-Diffusion-Prompts: prompts/sd-promts.md
+    - Stable-Diffusion-Prompts: prompts/sd-prompts.md
     - Coding-Prompts: prompts/code-prompts.md
 
 

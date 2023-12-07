@@ -19,6 +19,8 @@ What are LLM's:
 | Llama | --- | LLMs  | LLM from Meta | 
 | Claude | --- | LLMs  | LLM from Anthropic |
 | PaLM 2 | --- | LLMs  | Pathways Language Model 2 (PaLM 2) used in Bard,  LLM from Google |
+| Gemini |--- | LLMs  | Gemini Ultra,pro and Nano models from Google Deepmind |  
+| --- |--- | ----  | --- |  
 | --- |--- | ----  | --- |  
 
 
@@ -29,7 +31,7 @@ What are LLM's:
 - [HuggingFace](https://huggingface.co/)
 - [CIVITAI](https://civitai.com/)
 
-
+- [Models](models/models.md)
 -----------------------------------------------------------------------------
 ## Prompts
 
@@ -55,10 +57,11 @@ What are LLM's:
 
 ## Local Runs of LLMs
 
-- LMStudio
-- Pinkio Computer
+- [LMStudio](https://lmstudio.ai/)
+- [Pinkio Computer](https://pinokio.computer/)
 - [Ollama](https://ollama.ai/)
 
+- [run-models-locally](ai-tools/local-model-run.md)
 -----------------------------------------------------------------------------
 ### Cloud-Providers for Running/Training Models
 
