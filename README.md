@@ -38,7 +38,9 @@ Keep Going!
 
 - Autogen by Microsoft
 - BabyAGI
-- 
+- chatdev
+- crewai
+
 
 
 ```bash
