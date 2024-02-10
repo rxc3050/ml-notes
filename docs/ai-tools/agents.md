@@ -4,3 +4,10 @@
 - autogen
 - babyagi
 - crewai
+
+chatdev
+GeniA
+Flowise
+X-force
+Rivet
+Autogen
