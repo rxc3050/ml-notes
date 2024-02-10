@@ -5,9 +5,7 @@
 - babyagi
 - crewai
 
-chatdev
-GeniA
-Flowise
-X-force
-Rivet
-Autogen
+- GeniA
+- Flowise
+- X-force
+- Rivet
