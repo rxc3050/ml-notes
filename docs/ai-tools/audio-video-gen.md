@@ -16,3 +16,4 @@
 
 - [Pika-AI]()
 - [RunwayMl]()
+- [sora-openai]()
