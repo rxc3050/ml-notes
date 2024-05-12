@@ -17,3 +17,4 @@
 - [Pika-AI]()
 - [RunwayMl]()
 - [sora-openai]()
+- [ AutoShorts AI](https://autoshorts.ai/)
